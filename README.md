@@ -16,6 +16,7 @@ Created by Xiaogang Wang, Bin Zhou, Haiyue Fang, Xiaowu Chen, Qinping Zhao
     [![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
     [![](visist it)](http://baidu.com)
     [我的博客](http://baidu.com)
+    ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
 
 ## 0, Flt2Txt: Process models (.flt) into '.txt' files. 
    cd .../Code/Flt2Txt/Flt2Txt
