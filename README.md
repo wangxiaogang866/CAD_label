@@ -12,7 +12,7 @@ Created by Xiaogang Wang, Bin Zhou, Haiyue Fang, Xiaowu Chen, Qinping Zhao
      Matlab 2015b.
      
 ## Dataset 
-[Google](http://www.google.com/)
+You can download the data [here](http://www.google.com/).
 
 
 ## 0, Flt2Txt: Process models (.flt) into '.txt' files. 
