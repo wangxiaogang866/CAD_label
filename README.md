@@ -30,12 +30,12 @@ Created by Xiaogang Wang, Bin Zhou, Haiyue Fang, Xiaowu Chen, Qinping Zhao
 
 ## 2, Caffe Network Training: Training Network   
 
-   2-1, Training Caffe Model  
+   ### 2-1, Training Caffe Model  
     cd .../Code/Caffe_model/Caffe_model_train
     motor_multitask_cls.prototxt
     motor_multitask_solver.prototxt 
   
-   2-2, Training Data Generation
+   ### 2-2, Training Data Generation
     cd .../Code/Caffe_model/Caffe_model_train_test_data_generation
     MakeNetInput.m
     The output .mat file include the following:
